@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Til</string>
+    <string name="email">Elektron pochtangizni kiriting</string>
+    <string name="password">Parolingizni kiriting</string>
+    <string name="sign_in">TIZIMGA KIRISH</string>
+    <string name="don_t_have_an_accaunt">Hisobingiz yo\'qmi?</string>
+    <string name="sign_up">Ro\'yxatdan o\'tish</string>
+
+    <string name="choose_language">Tilni tanlang</string>
+</resources>

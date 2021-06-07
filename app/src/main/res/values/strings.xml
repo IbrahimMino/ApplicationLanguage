@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Language</string>
+    <string name="email">Enter your email</string>
+    <string name="password">Enter your password</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="don_t_have_an_accaunt">Don\'t have an accaunt?</string>
+    <string name="sign_up">Sign up</string>
+
+ <string name="choose_language">Choose a language</string>
+
+</resources>

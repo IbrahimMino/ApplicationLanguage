@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Язык</string>
+    <string name="email">Введите адрес электронной почты</string>
+    <string name="password">Введите свой пароль</string>
+    <string name="sign_in">ВОЙТИ</string>
+    <string name="don_t_have_an_accaunt">Нет учетной записи?</string>
+    <string name="sign_up">Зарегистрироваться</string>
+
+    <string name="choose_language">Выберите язык</string>
+</resources>
